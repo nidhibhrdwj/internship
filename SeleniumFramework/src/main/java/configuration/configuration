@@ -1,0 +1,4 @@
+username=Admin
+password=admin123
+url=https://opensource-demo.orangehrmlive.com
+driverpath=D:\\Nidhi\\JAVA_practice\\SeleniumFramework\\src\\main\\java\\drivers\\chromedriver.exe
